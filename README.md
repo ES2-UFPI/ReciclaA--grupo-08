@@ -1,7 +1,7 @@
 # ReciclaAI
 
 ### Integrantes
-- Bernardo Ferreira de Mourão Ribeiro
+- Bernardo Ferreira de Moura Ribeiro
 - Maria do Rosario de Fatima Martins Ferreira 
 - Geyldson Lucas Mendes de Sousa 
 
